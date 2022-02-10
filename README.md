@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=thedeaddan&label=Просмотры+профиля&color=blueviolet&style=flat-square)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thedeaddan)](https://github.com/thedeaddan/github-profile-trophy)  
