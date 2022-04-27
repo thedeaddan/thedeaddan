@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://vk.com/d.grhv)  
----
+----
 ![](https://komarev.com/ghpvc/?username=thedeaddan&label=Просмотры+профиля&color=blueviolet&style=flat-square)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeaddan&layout=compact&theme=radical)  
 
