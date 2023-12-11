@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://vk.com/d.grhv)  
 ----
-![](https://komarev.com/ghpvc/?username=thedeaddan&label=Просмотры+профиля&color=blueviolet&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=thedeaddan&color=blueviolet&style=for-the-badge)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeaddan&layout=compact&theme=radical)  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
